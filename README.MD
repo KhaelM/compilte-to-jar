@@ -1,0 +1,1 @@
+A basic example to compile java project into jar executable.
